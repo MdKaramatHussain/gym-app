@@ -1,0 +1,13 @@
+TailwindCSS->{Native Wind use to design the project}
+react-native-responsive-screen-> To make the screens responsive for almost all the devicess
+expo-linear-gradient->To use linear gradient effect in our project
+React Native Reanimated->To add animation in react native projects
+react-native-vector-icons-> To add vector icons in our react native projects.
+react-native-snap-carousel-> to use carousel effect in react native project
+react-native-reanimated-carousel->to use carousel effect in react native project
+ExerciseDB(rapidApi)->Api for exercise
+axios-> client to fetch data from server
+react-native-virtualized-view-> It virtualized the contains
+expo-image->it improve the functionality of application
+ScreenShoot-> This folder containsthe screenshoots of the screens to help in overview
+ 
